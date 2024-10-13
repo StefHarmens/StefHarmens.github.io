@@ -21,8 +21,8 @@ highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "t
 url     : https://stefharmens.github.io/
 baseurl : # does not include hostname
 title   : Nexify Solutions
-description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
+description: >
+  Redefining IT, One Solution at a Time.
 
 
 ## => Language and Timezone
