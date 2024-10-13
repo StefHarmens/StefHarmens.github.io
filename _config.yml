@@ -34,9 +34,9 @@ timezone: Europe/Amsterdam
 ## => Author and Social
 ##############################
 author:
-  type      : # "person" (default), "organization"
-  name      : Your Name
-  url       :
+  type      : person
+  name      : Stef Harmens
+  url       : https://stefharmens.github.io/
   avatar    : assets/images/logo/octocat-1728827128723.png
   bio       : I am an amazing person.
   email     : Stefharmens@outlook.com
